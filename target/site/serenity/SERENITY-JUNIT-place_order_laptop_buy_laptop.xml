@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="place order laptop" skipped="0" tests="1" time="0.34" timestamp="2021-05-23 07:00:07"><testcase name="buy laptop"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.techmahindra.reto.stepdefinitions.Hooks.theUserLoginInTheApplication(Hooks.java:20)&#13;
+✽.the user in the application(src/test/resources/feature/placeorder.feature:4)&#13;
+</system-err></testcase></testsuite>
