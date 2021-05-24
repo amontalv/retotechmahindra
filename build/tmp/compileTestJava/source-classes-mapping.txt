@@ -1,6 +1,8 @@
-co/techmahindra/reto/stepdefinitions/PlaceOrderStepDefinitions.java
- co.techmahindra.reto.stepdefinitions.PlaceOrderStepDefinitions
 co/techmahindra/reto/stepdefinitions/Hook.java
  co.techmahindra.reto.stepdefinitions.Hook
 co/techmahindra/reto/runner/PlaceOrderRunner.java
  co.techmahindra.reto.runner.PlaceOrderRunner
+co/techmahindra/reto/runner/RunnerPersonalizado.java
+ co.techmahindra.reto.runner.RunnerPersonalizado
+co/techmahindra/reto/stepdefinitions/PlaceOrderStepDefinitions.java
+ co.techmahindra.reto.stepdefinitions.PlaceOrderStepDefinitions

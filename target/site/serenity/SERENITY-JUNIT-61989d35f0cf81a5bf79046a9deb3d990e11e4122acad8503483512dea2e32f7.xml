@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name=": place order laptop" skipped="0" tests="1" time="57.09" timestamp="2021-05-23 10:01:17"><testcase name=": buy laptop"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": place order laptop" skipped="0" tests="1" time="7.35" timestamp="2021-05-23 10:50:33"><testcase name=": buy laptop"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.techmahindra.reto.task.AutenticationInThePage.performAs(AutenticationInThePage.java:26)&#13;
+co.techmahindra.reto.stepdefinitions.PlaceOrderStepDefinitions.theUserLoginInTheApplication(PlaceOrderStepDefinitions.java:24)&#13;
+✽.the user login in the application(file:///C:/Users/Usuario/IdeaProjects/co.techmahindra.reto.alejandro/src/test/resources/feature/placeorder.feature:6)&#13;
+</system-err></testcase></testsuite>

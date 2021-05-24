@@ -10,5 +10,6 @@ Característica: : place order laptop
     Entonces user view message
       | <message> |
     Ejemplos:
-      | username                   | password     | laptop      | name      | country  | city     | creditCard  | month | year | message                      |
-      | alejomontalvo036@gmail.com | Colombia2019 | MacBook Pro | alejandro | colombia | medellin | 00989327983 | june  | 2021 | Thank you for your purchase! |
+      | username | password | laptop | name | country | city | creditCard | month | year | message |
+      ##@externaldata@.\src\test\resources\datadriven\placeorder.xlsx@Data@1
+      |  |  |  |  |  |  |  |  |  |  |

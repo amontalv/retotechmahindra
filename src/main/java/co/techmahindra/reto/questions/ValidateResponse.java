@@ -14,7 +14,7 @@ public class ValidateResponse implements Question<Boolean> {
 
     @Override
     public Boolean answeredBy(Actor actor) {
-        return Text.of(SearchToCartPage.TXT_RESPONSE).asAString().answeredBy(actor).equalsIgnoreCase(message);
+        return Text.of(SearchToCartPage.TXT_RESPONSE).viewedBy(actor).asString().equalsIgnoreCase(message);
     }
 
     public static ValidateResponse withMessage(String messsage){
